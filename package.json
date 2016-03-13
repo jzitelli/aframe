@@ -33,11 +33,11 @@
     "present": "0.0.6",
     "request-interval": "^1.0.0",
     "style-attr": "^1.0.2",
-    "three": "git://github.com/jzitelli/three.js.git#dev",
     "tween.js": "^15.0.0",
     "webvr-libs": "^1.0.4"
   },
   "devDependencies": {
+    "three": "git://github.com/jzitelli/three.js.git#dev",
     "browserify": "^11.0.1",
     "browserify-derequire": "^0.9.4",
     "budo": "^7.1.0",
