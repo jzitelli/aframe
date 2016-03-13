@@ -33,7 +33,7 @@
     "present": "0.0.6",
     "request-interval": "^1.0.0",
     "style-attr": "^1.0.2",
-    "three": "^0.74.0",
+    "three": "git://github.com/jzitelli/three.js.git#dev",
     "tween.js": "^15.0.0",
     "webvr-libs": "^1.0.4"
   },
@@ -52,7 +52,6 @@
     "karma-firefox-launcher": "^0.1.6",
     "karma-mocha": "^0.2.0",
     "karma-mocha-reporter": "^1.1.0",
-    "karma-sinon-chai": "^1.1.0",
     "mkdirp": "0.5.1",
     "mocha": "^2.3.3",
     "mozilla-download": "^1.0.5",
